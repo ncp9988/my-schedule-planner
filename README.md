@@ -17,4 +17,4 @@ https://ncp9988.github.io/my-schedule-planner/
 https://github.com/ncp9988/my-schedule-planner.git
 
 ### Screenshot
-![Screenshot](href="./assets/screenshot.png")
+![Screenshot](https://github.com/ncp9988/my-schedule-planner/blob/main/Screen%20Shot%202021-11-21%20at%202.35.25%20PM.png)
