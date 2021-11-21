@@ -46,9 +46,11 @@ $("button").click(function(){
     console.log(timeBlock,userEntry)
     localStorage.setItem(timeBlock,userEntry)
 })
-function saveLocal() {
-    
-}
 
+
+for (let i = 9; i<= 17; i++) {
+    var timeEntry = localStorage.getItem(i)
+    $("#time-"+i).siblings("textarea").val(timeEntry)
+}
 
 
